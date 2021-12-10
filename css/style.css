@@ -39,6 +39,7 @@
 
 .skip a:focus{
     font-size: 17px;
+    color: #000000;
     
 }
 
@@ -1308,7 +1309,7 @@ footer{
 
     .skip a:focus{
         font-size: 17px;
-        
+        color: #000000;
     }
     
     
@@ -2031,6 +2032,7 @@ footer{
 
     .skip a:focus{
         font-size: 17px;
+        color: #000000;
         
     }
     
